@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/avishkaindunil" target="blank"><img src="https://img.shields.io/twitter/follow/avishkaindunil?logo=twitter&style=for-the-badge" alt="avishkaindunil" /></a> </p>
 
-- 👨‍💻 All of my projects are available at avishkaindunil.me
+- 👨‍💻 All of my projects are available at www.avishkaindunil.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
