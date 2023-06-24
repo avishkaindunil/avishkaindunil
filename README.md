@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I'm Avishka Indunil and I'm a Computer SCience Undergraduate, from University of Colombo School of Computing</p>
 
 ###
 
 <h2 align="left">About me</h2>
+www.avishkaindunil.me
+###
+
+<p align="left">✨ Creating bugs since blah blah blah<br>📚 I'm currently learning about Computer Science<br>🎯 Goals: ...<br>🎲 Fun fact: Nothing😹</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">I use</h2>
 
 ###
 
