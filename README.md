@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Avishka Indunil and I'm a Computer SCience Undergraduate, from University of Colombo School of Computing</p>
+<p align="left">I'm Avishka Indunil and Computer Science Undergraduate from University of Colombo School of Computing.</p>
 
 ###
 
@@ -10,25 +10,27 @@
 www.avishkaindunil.me<br>
 ###
 
-<p align="left">✨ Creating bugs since blah blah blah<br>📚 I'm currently learning about Computer Science<br>🎯 Goals: Sleeping<br>🎲 Fun fact: Nothing😹</p>
+<p align="left">✨ Creating bugs since blah blah blah<br>📚 I'm currently learning to sleep<br>🎯 Goals: Sleeping<br>🎲 Fun fact: Seeping</p>
 
 ###
 
-<h2 align="left">I use</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
