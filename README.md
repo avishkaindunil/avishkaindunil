@@ -10,7 +10,7 @@
 www.avishkaindunil.me<br>
 ###
 
-<p align="left">✨ Creating bugs since blah blah blah<br>📚 I'm currently learning to sleep<br>🎯 Goals: Sleeping<br>🎲 Fun fact: Seeping</p>
+<p align="left">✨ Creating bugs since blah blah blah<br>📚 I'm currently learning to sleep<br>🎯 Goals: Sleeping<br>🎲 Fun fact: Sleeping</p>
 
 ###
 
