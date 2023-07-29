@@ -8,6 +8,8 @@
 
 <h2 align="left">About me</h2>
 www.avishkaindunil.me<br>
+<h3 align="left">Contact me</h3>
+hello@avishkaindunil.me<br>
 ###
 
 <p align="left">✨ Creating bugs since blah blah blah<br>📚 I'm currently learning to sleep<br>🎯 Goals: Sleeping<br>🎲 Fun fact: Sleeping</p>
