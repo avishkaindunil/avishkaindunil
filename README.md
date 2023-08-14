@@ -9,11 +9,6 @@
 <h2 align="left">About me</h2>
 www.avishkaindunil.me<br>
 Contact me: hello@avishkaindunil.me<br>
-###
-
-<p align="left">✨ Creating bugs since blah blah blah<br>📚 I'm currently learning to sleep<br>🎯 Goals: Sleeping<br>🎲 Fun fact: Sleeping</p>
-
-###
 
 <h2 align="left">Tech Stack</h2>
 
