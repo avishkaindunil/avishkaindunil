@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 www.avishkaindunil.me<br>
-Contact me: hello@avishkaindunil.me<br>
+Contact me: haavishkaindunil@gmail.com<br>
 
 <h2 align="left">Tech Stack</h2>
 
